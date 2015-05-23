@@ -3,7 +3,7 @@ Are invading!
 
 ## Installation
 ````
-git clone https://github.com/HurricaneJames/martian-robots
+git clone https://github.com/HurricaneJames/martian-robots.git
 npm install
 
 # if you want to see tests
